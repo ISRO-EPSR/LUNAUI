@@ -62,7 +62,7 @@ function Team() {
                                 <div className="col p-4 d-flex flex-column position-static">
                                     <strong className="d-inline-block mb-2 text-primary">Team Member</strong>
                                     <h3 className="mb-0">Bhavya Verma</h3>
-                                    <div className="mb-1 text-muted">Researcher</div>
+                                    <div className="mb-1 text-muted">Software Engineer</div>
                                     <p className="card-text mb-auto">
                                         Bhavya collects all the neccessary content for all the
                                         research purposes.
