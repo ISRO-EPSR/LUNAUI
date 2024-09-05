@@ -53,24 +53,14 @@ function Enahnce() {
                         <h2 className>How this amazing technology works ?</h2>
                         <hr />
                         <p>
-                            In today’s world, Deep learning have comes into play in which model
-                            learns to perform classification tasks directly from images, text, or
-                            sound. Deep learning models can achieve state-of-the-art accuracy,
-                            sometimes exceeding human-level performance. Models are trained by
-                            using a large set of labeled data and neural network architectures
-                            that contain many layers.
+                        Our technology uses deep learning, specifically the MIRNet model, to enhance low-light images of lunar craters. It boosts weak signals, adjusts contrast, and preserves details, turning challenging images into clear, high-quality visuals for better analysis of the moon’s surface.
                         </p>
                         <br />
                         <br />
-                        <h2 className>What is OCR ?</h2>
+                        <h2 className>What is Low Light Enhancement ?</h2>
                         <hr />
                         <p>
-                            OCR is a technology that analyzes the text of a page and turns the
-                            letters into code that may be used to process information. OCR is a
-                            technique for detecting printed or handwritten text characters inside
-                            digital images of paper files, such as scanning paper records (optical
-                            character recognition). OCR systems are hardware and software systems
-                            that turn physical documents into machine-readable text.
+                        Low-light enhancement is a technique that improves the visibility of images taken in poorly lit conditions by boosting brightness, contrast, and details. For Permanently Shadowed Regions (PSR) on the Moon, where sunlight never reaches, this technology enhances the faint signals captured by cameras, revealing surface details hidden in darkness. This enables scientists to better analyze these regions, aiding in lunar exploration and identifying potential landing sites.
                         </p>
                         <br />
                         <br />
@@ -78,7 +68,7 @@ function Enahnce() {
                         <hr />
                         <ul>
                             <li className="fs65">
-                                Click on the upload button or drag the file you want to get text
+                                Click on the upload button or drag the file you want to get image
                                 extracted on the page.
                             </li>
                             <li className="fs-6">
@@ -86,18 +76,17 @@ function Enahnce() {
                                 server to perform the required operations
                             </li>
                             <li className="fs-6">
-                                Now conversion process has started to extract the text.
+                                Now conversion process has started to Enahnce the image.
                             </li>
                             <li className="fs-6">
-                                A dialogue box will appear, in which the extracted text is present.
+                                A dialogue box will appear, in which the Enahnced image is present.
                             </li>
                             <li className="fs-6">
-                                Now you can either directly copy the text to clipboard by apprroving
+                                Now you can either directly copy the image to clipboard by apprroving
                                 the permission to access your clipboard.
                             </li>
                             <li className="fs-6">
-                                Or you can also download the extracted text into diffrent formats as
-                                required.
+                                Or you can also download the enahnce image.
                             </li>
                         </ul>
                     </div>
