@@ -116,8 +116,7 @@ class Home extends React.Component {
                                         <span className="text-muted"> beyond space </span>
                                     </h2>
                                     <p className="lead">
-                                        Luna which is developed by ByteClub, Is not only useful for Space organisation
-                                        but also for rescue teams.
+                                    LUNA take image enhancement to new heights, making your visuals clearer. Join us in discovering how  our EPSR based methods push the boundaries of image clarity.
                                     </p>
                                 </div>
                                 <div className="col-md-5">
