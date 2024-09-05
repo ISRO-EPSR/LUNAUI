@@ -44,7 +44,7 @@ function Team() {
                         <div className="col-md-6">
                             <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
                                 <div className="col p-4 d-flex flex-column position-static">
-                                    <strong className="d-inline-block mb-2 text-primary">Student</strong>
+                                    <strong className="d-inline-block mb-2 text-primary">Team Member</strong>
                                     <h3 className="mb-0">Shivam</h3>
                                     <div className="mb-1 text-muted">Aspiring Machine Learning Engineer</div>
                                     <p className="mb-auto">
@@ -60,7 +60,7 @@ function Team() {
                         <div className="col-md-6">
                             <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
                                 <div className="col p-4 d-flex flex-column position-static">
-                                    <strong className="d-inline-block mb-2 text-primary">Student</strong>
+                                    <strong className="d-inline-block mb-2 text-primary">Team Member</strong>
                                     <h3 className="mb-0">Bhavya Verma</h3>
                                     <div className="mb-1 text-muted">Researcher</div>
                                     <p className="card-text mb-auto">
@@ -76,7 +76,7 @@ function Team() {
                         <div className="col-md-6">
                             <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
                                 <div className="col p-4 d-flex flex-column position-static">
-                                    <strong className="d-inline-block mb-2 text-success">Student</strong>
+                                    <strong className="d-inline-block mb-2 text-primary">Team Member</strong>
                                     <h3 className="mb-0">Riya Shukla</h3>
                                     <div className="mb-1 text-muted">Front-End Developer</div>
                                     <p className="mb-auto">
