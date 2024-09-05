@@ -15,7 +15,7 @@ function Menu() {
                                 <li className="nav-item "><Link to="/" className="nav-link active bg-black" aria-current="page"><a href="" className="nav-link active bg-black" aria-current="page">Home</a></Link></li>
                                 <li className="nav-item"><Link to="/enhance" className="nav-link text-black"><a href="./assets/pages/app.html" className="nav-link text-black">Enhance</a></Link></li>
                                 <li className="nav-item"><Link to="/team" className="nav-link text-black"><a href="./assets/pages/teams.html" className="nav-link text-black">Our Team</a></Link></li>
-                                <a className="navbar-brand-end" href="https://www.galgotiasuniversity.edu.in/" target="_blank">
+                                <a className="navbar-brand-end" href="https://github.com/ISRO-EPSR/" target="_blank">
                                     <img src="./assets/assets/gu-logo.png" alt="Bootstrap" width={30} height="auto" />
                                 </a>
                             </ul>
